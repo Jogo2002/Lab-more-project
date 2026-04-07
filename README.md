@@ -1,4 +1,4 @@
-# Docsum Chat Project
+# DCMC-CSCI40-MIA
 
 ![Doctests](https://github.com/MiaUrosevic/Lab-more-project/actions/workflows/doctests.yml/badge.svg)
 ![Integration Tests](https://github.com/MiaUrosevic/Lab-more-project/actions/workflows/integration-tests.yml/badge.svg)
@@ -16,10 +16,3 @@ Install via pip:
 ```bash
 pip install cmc-csci40-mia
 
-**Version management**  
-   - Every time you update your package, increment the version in `pyproject.toml` (e.g., `0.1.1`, `0.2.0`, etc.).  
-   - Rebuild and upload the new version:  
-
-```bash
-python -m build
-twine upload dist/*
