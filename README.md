@@ -16,3 +16,6 @@ Install via pip:
 ```bash
 pip install cmc-csci40-mia
 
+## PyPI
+
+[View this project on PyPI](https://pypi.org/project/cmc-csci40-mia/)
