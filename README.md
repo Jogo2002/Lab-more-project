@@ -10,6 +10,8 @@ This project provides a simple text summarization and chat interface using a moc
 - `llm.py` – Mock LLM class used for testing and demonstration purposes.  
 
 
+## PyPi Page Link
+
 [View this project on PyPI](https://pypi.org/project/cmc-csci40-mia/)
 
 ## Installation
