@@ -38,7 +38,7 @@ python chat.py --provider groq "show me README.md"
 ```
 
 ## Example: Webscraping Project
-This example is good because it shows the agent answering a high-level question about a real project directory.
+This example is good because it shows the agent answering a high-level question about a real scraping project.
 
 ```bash
 $ cd test_projects/webscraping_project
@@ -54,18 +54,9 @@ $ python ../../chat.py "find def in *.py"
 ```
 
 ## Example: Mia.Urosevic.github.io
-This example is good because it shows the agent reading and summarizing project files in a realistic scraping codebase.
+This example is good because it shows the agent reading and summarizing files from a real webpage project.
 
 ```bash
 $ cd test_projects/Mia.Urosevic.github.io
 $ python ../../chat.py "show me README.md"
 ```
-
----
-
-### Step 4: save the file
-
-Press:
-
-```text
-Cmd + S
