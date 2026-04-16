@@ -63,7 +63,7 @@ $ python ../../chat.py "show me README.md"
 
 ---
 
-# Step 4: save the file
+### Step 4: save the file
 
 Press:
 
