@@ -41,7 +41,7 @@ python chat.py --provider groq "show me README.md"
 This example is good because it shows the agent answering a high-level question about a real project directory.
 
 ```bash
-$ cd test_projects/webpage_project
+$ cd test_projects/webscraping_project
 $ python ../../chat.py "what is this project about?"
 ```
 
@@ -57,7 +57,7 @@ $ python ../../chat.py "find def in *.py"
 This example is good because it shows the agent reading and summarizing project files in a realistic scraping codebase.
 
 ```bash
-$ cd test_projects/webscraping_project
+$ cd test_projects/Mia.Urosevic.github.io
 $ python ../../chat.py "show me README.md"
 ```
 
